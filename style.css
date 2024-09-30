@@ -1,5 +1,6 @@
  body {
     background-color:rgb(252, 212, 163);
+    text-align: center;
  }
 
  p {
@@ -12,6 +13,7 @@
 
  h1{
    font-size: 200%;
+   font-family: brush script MT ;
  }
 
  h2 { font-size: 150%;
