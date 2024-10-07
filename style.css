@@ -1,7 +1,8 @@
  body {
     background-color:rgb(252, 212, 163);
     text-align: center;
-    background-image:  <img src="paes.jpg">;
+    background-image:  url("images/paes.jpg");
+    ;
  }
 
  p {
